@@ -1,0 +1,58 @@
+commit aa7857c718afcf43c81e96bebe27a3044c6a437a (HEAD -> master, origin/master, bug2)
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 21:26:31 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 04a13bd33a641d46e81600d427bc6d0247575686
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 21:09:39 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1d54118663fc999afd5123a8b742c2d2156c7ff2 (origin/bug1, bug1)
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 21:23:49 2024 +0200
+
+    Call method filterOddLengthString in main class
+
+commit 59f1fc56c24912ffc13f54532ce1405b985e234a
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 21:07:50 2024 +0200
+
+:
+commit aa7857c718afcf43c81e96bebe27a3044c6a437a (HEAD -> master, origin/master, bug2)
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 21:26:31 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 04a13bd33a641d46e81600d427bc6d0247575686
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 21:09:39 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1d54118663fc999afd5123a8b742c2d2156c7ff2 (origin/bug1, bug1)
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 21:23:49 2024 +0200
+
+    Call method filterOddLengthString in main class
+
+commit 59f1fc56c24912ffc13f54532ce1405b985e234a
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 21:07:50 2024 +0200
+
+    Fix wrong condition in FilterOddLengthString
+
+commit 8fb32347b0c2b5003326114ea45cf54d815dc8ca
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 20:56:56 2024 +0200
+
+    Add starter code
+
+commit baa3f3ecce2d837c62820ba25674eee2a0ddf12c
+Author: Ivo-Jovan <ivojovan@gmail.com>
+Date:   Sun Apr 14 20:34:12 2024 +0200
+
+    Initial Commit

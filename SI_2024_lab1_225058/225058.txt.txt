@@ -1,0 +1,21 @@
+mkdir SI_2024_lab1_225058
+touch README.md
+nano README.md
+git init
+git add SI_2024_lag1_225058
+git commit -m "Initial Commit"
+git branch -M master
+git remote add origin https://github.com/Ivo-Jovan/SI_2024_lab1_225058.git
+git push -u origin master
+git commit -m "Initial commit"
+git add SILab1_1.java
+git add SILab1_2.java
+git add SILab1Main.java
+git commit -m "Add starter code"
+git branch bug1
+git branch bug2
+git add SILab1_1.java
+git commit -m "Fix wrong condition in FilterOddLengthString"
+git checkout bug2
+git add SILab1_2.java
+git commit -m "Fix wrong condition in FilterOddLengthString"
